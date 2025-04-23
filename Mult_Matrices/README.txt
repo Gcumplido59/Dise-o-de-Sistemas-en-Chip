@@ -1,4 +1,4 @@
-**Breve explicacion del codigo:
+Breve explicacion del codigo:
 
 📌 Multiplicación de Matrices 3x3 en Ensamblador RISC-V
 Este programa implementa la multiplicación de dos matrices de tamaño 3×3 en lenguaje ensamblador RISC-V (RV32I), utilizando bucles anidados y gestión de memoria de bajo nivel.
