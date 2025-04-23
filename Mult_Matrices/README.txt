@@ -39,4 +39,4 @@ Este resultado se puede observar en la imagen .PNG anexada en el mismo repositor
 0x10000048
 (Estos Address tambien son visibles en la imagen anexada)
 
-El codigo lo probe tanto en Visual Studio Code como en Ripes.me, En visual studio Code me salia un error a la hora de poner "ecall"
+El codigo lo probe tanto en Visual Studio Code como en Ripes.me, En visual studio Code me salia un error a la hora de poner "ecall", lo probe con las extensiones "RISC-V Venus Simulator" y "RISC-V Support"
