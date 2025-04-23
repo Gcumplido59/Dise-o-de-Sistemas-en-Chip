@@ -25,7 +25,5 @@ int main() {
             }
         }
     }
-    
-    // No mostramos C según lo solicitado
     return 0;
 }
